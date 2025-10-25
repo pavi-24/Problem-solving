@@ -1,0 +1,11 @@
+1.sum of the digits in a given number
+2.sum and average of an array
+3.count positive negative and zeroes in an array
+4.maximum and minimum in an array
+5.print the first occurrence of a given key else -1
+6.print the last occurrence of a given key else -1
+7.count the vowels and consonants in a string
+8.string palindrome
+9.toggle the case of a string
+10.print the number of words in a sentence
+11.print the first repeating character in a string
